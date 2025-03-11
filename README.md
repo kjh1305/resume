@@ -10,7 +10,6 @@
 ---
 
 📧 **Email:** cosyq1305@naver.com  
-🐙 **GitHub:** [kjh1305](https://github.com/kjh1305)  
 📖 **Blog:** [cokes.tistory.com](https://cokes.tistory.com)
 
 ---
