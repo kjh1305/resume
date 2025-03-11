@@ -1,6 +1,6 @@
 # 안녕하세요, 김준형입니다! 👋
 
-**Backend Developer | 목표를 이루며 성장하고 싶은 개발자**
+**Software Enginer | Backend Developer | 목표를 이루며 성장하고 싶은 개발자**
 
 > ✨ **배움은 끝이 없다.**  
 > 기술은 끝이 없으니, 배움도 끝이 없습니다.  
