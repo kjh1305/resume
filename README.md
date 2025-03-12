@@ -44,13 +44,13 @@ B2B 도매 쇼핑몰 오너클랜의 파트너사로서 서비스, 자사 프로
   - 알림기능으로 고객 문의 대응 속도 개선
   - 상품 등록 및 관리 시간 단축으로 생산성 증가
 
-#### 📌 다팔자 서비스 프로그램 등록기 개발
+#### 📌 [다팔자](https://ownerclan.com/V2/info_page/dafalza2.php) 서비스 프로그램 등록기 개발
 - **개요:** 오너클랜 상품 대량 등록, 품절/단종 등에 따른 상품 동기화 기능 제공
 - **기술 스택:** Node.js, TypeScript, Electron, Puppeteer
 - **담당 업무:**
   - 신규 서비스 마켓(GS_SHOP, TOSS) 등록기 개발 및 유지보수
 
-#### 📌 다잡아 서비스 프로그램 고도화
+#### 📌 [다잡아](https://ownerclan.com/V2/info_page/coupang_winner.php) 서비스 프로그램 고도화
 - **개요:** 크롤링 구조개선, 신규 기능, 관리자 기능 추가 
 - **기술 스택:** Python(PySide6), Selenium, SQLite, Java(Spring), Vue.js, MySQL, PyUpdater, iwinv cloud service
 - **담당 업무:**
