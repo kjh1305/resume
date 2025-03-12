@@ -1,4 +1,4 @@
-# 안녕하세요, 김준형입니다! 👋
+# 김준형
 
 **Software Enginer | Backend Developer | 목표를 이루며 성장하고 싶은 개발자**
 
