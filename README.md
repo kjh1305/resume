@@ -3,11 +3,9 @@
 ### 김준형
 **Software Enginer | Backend Developer | 목표를 이루며 성장하고 싶은 개발자**
 
-B2B 도매 쇼핑몰 오너클랜의 파트너사로서 서비스, 자사 프로그램 개발 및 유지보수를 담당하였으며
-
-주로 파이썬으로 윈도우 GUI 프로그램, Java/Spring/VueJS/MySQL/Python/DRF/FastAPI 관리자, API 서버를 개발을 하였습니다.
-
-자사판매시스템을 자동화하기 위한 배치를 개발중입니다.
+[뒤처지지 않게 틈틈히 자기계발 하기]
+문제를 해결하는 부분에서 뿌듯함을 많이 느낍니다.
+Java, Spring, Python, Django, FastAPI 등 다양한  환경의 개발 경험이 있다는 것이 저의 장점입니다.
 
 ---
 
