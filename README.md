@@ -4,6 +4,8 @@
 **Software Enginer | Backend Developer | 목표를 이루며 성장하고 싶은 개발자**
 
 [뒤처지지 않게 틈틈히 자기계발 하기]
+
+
 문제를 해결하는 부분에서 뿌듯함을 많이 느낍니다.
 Java, Spring, Python, Django, FastAPI 등 다양한  환경의 개발 경험이 있다는 것이 저의 장점입니다.
 
