@@ -11,6 +11,8 @@
 
 Java, Spring, Python, Django, FastAPI 등 다양한 환경의 개발 경험이 있다는 것이 저의 장점입니다.
 
+개인 서버를 구축하여 Git action, docker를 활용하여 배포 자동화 하여 컨테이너 및 리눅스에 익숙해지고 있습니다.
+
 ---
 
 📧 **Email:** cosyq1305@naver.com  
