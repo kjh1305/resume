@@ -9,7 +9,7 @@
 문제를 해결하는 부분에서 뿌듯함을 많이 느낍니다.
 
 
-Java, Spring, Python, Django, FastAPI 등 다양한  환경의 개발 경험이 있다는 것이 저의 장점입니다.
+Java, Spring, Python, Django, FastAPI 등 다양한 환경의 개발 경험이 있다는 것이 저의 장점입니다.
 
 ---
 
@@ -34,6 +34,7 @@ Java, Spring, Python, Django, FastAPI 등 다양한  환경의 개발 경험이 
 - **기술 스택:** Python, FastAPI, MySQL, Vue.js, PySide6
 - **담당 업무:**
   - 상품 정보 수집, 등록, 주문 수집, 운송장 수집, 운송장 업로드, CS문의 수집 등 배치를 개발하여 판매 프로세스 자동화
+  - Git lab CI를 활용한 배치 프로그램 자동 배포 및 재실행 
   - 오너클랜 API 활용 상품 카테고리 자동 매칭 기능 배치 개발
   - 외부 상품 엑셀 등록 GUI 프로그램 및 기능 개발
   - 자동 상품 등록 설정 관리자 API, 프론트 개발
