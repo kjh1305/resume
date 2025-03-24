@@ -55,7 +55,7 @@ Java, Spring, Python, Django, FastAPI 등 다양한 환경의 개발 경험이 �
   - 상품 등록 및 관리 시간 단축으로 생산성 증가
 
 #### 📌 [다팔자](https://ownerclan.com/V2/info_page/dafalza2.php) 서비스 프로그램 등록기 개발
-- **개요:** 오너클랜 상품 대량 등록, 품절/단종 등에 따른 상품 동기화 기능 제공
+- **개요:** 상품 대량 등록, 품절/단종 등에 따른 상품 동기화 기능 제공
 - **기술 스택:** Node.js, TypeScript, Electron, Puppeteer
 - **담당 업무:**
   - 신규 서비스 마켓(GS_SHOP, TOSS) 등록기 개발 및 유지보수
