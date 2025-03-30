@@ -14,7 +14,7 @@ Python(FastAPI, Django), Java(Spring Boot) 등 다양한 기술 스택을 활용
 
 📧 **Email:** cosyq1305@naver.com  
 📖 **Blog:** [cokes.tistory.com](https://cokes.tistory.com)  
-📖 **Portfolio:** [portfolio](https://cokes1.kro.kr/portfolio)
+📖 **Portfolio:** [cokes1.kro.kr](https://cokes1.kro.kr/portfolio)
 
 ---
 
