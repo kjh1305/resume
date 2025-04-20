@@ -127,5 +127,5 @@ Python(FastAPI, Django), Java(Spring Boot) 등 다양한 기술 스택을 활용
   - 스티비(Stibee) API 연동을 통한 뉴스레터 발송 및 구독자 관리 기능 구현
 
 ---
-읽어주셔서 감사합니다!!
+읽어주셔서 감사합니다!!!
 
