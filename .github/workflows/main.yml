@@ -11,6 +11,15 @@ jobs:
       contents: write
     steps:
       - uses: bcanseco/github-contribution-graph-action@v2
+      - name: Set up git config
+        run: |
+          git config --global user.email "cosyq1305@naver.com"
+          git config --global user.name "kjh1305"
+
+      - name: Make empty commit with KST date
+        run: |
+          export TZ=Asia/Seoul
+          git commit --allow-empty --date="$(date '+%a %b %d %H:%M:%S %Y +0900')" -m "auto commit $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GIT_EMAIL: cosyq1305@naver.com # 본인 이메일로 변경
