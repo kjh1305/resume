@@ -14,6 +14,8 @@ jobs:
         run: |
           git config --global user.email "cosyq1305@naver.com"
           git config --global user.name "kjh1305"
+      - name: Pull latest changes
+        run: git pull --rebase
       - name: Make empty commit with KST date
         run: |
           export TZ=Asia/Seoul
