@@ -3,6 +3,7 @@
 on:
   schedule:
     - cron: '5 15 * * *' # 매일 정오(UTC)에 실행
+  workflow_dispatch:
 
 jobs:
   single-commit:
