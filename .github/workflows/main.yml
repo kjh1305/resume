@@ -1,8 +1,6 @@
-# .github/workflows/main.yml
-
 on:
   schedule:
-    - cron: '5 15 * * *' # 매일 정오(UTC)에 실행
+    - cron: '5 15 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,12 +9,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: bcanseco/github-contribution-graph-action@v2
+      - uses: actions/checkout@v4
       - name: Set up git config
         run: |
           git config --global user.email "cosyq1305@naver.com"
           git config --global user.name "kjh1305"
-
       - name: Make empty commit with KST date
         run: |
           export TZ=Asia/Seoul
